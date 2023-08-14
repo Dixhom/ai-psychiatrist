@@ -1,6 +1,8 @@
 # はじめに
 
-もし AI が医師になったら・・・そんな未来を考えたことがありますか？医療の参入障壁は下がり、診療費も格安となり、誰もがいつでもどこでもスマホに症状を言うだけで治療が受けられるでしょう。本稿はそんな未来を夢見た実験です。
+もし AI が医師になったら・・・そんな未来を考えたことがありますか？医療が身近となり、診療費も格安となり、誰もがいつでもどこでもスマホに症状を言うだけで治療が受けられるでしょう。本稿はそんな未来を夢見た実験です。
+
+This project is about developing a virtual psychiatrist model from patient interview data. If this attempt is successful, it may lead to a future where you can diagnose diseases just by talking about your symptoms on your smartphone. I chose psychiatry because it is centered around interviews and it is considered to be easy to diagnose diseases with text data alone.
 
 # 作った理由
 
